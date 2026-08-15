@@ -1,6 +1,6 @@
 # Robotaksi26 Sensor Fusion
 
-ROS 2 tabanlı, **ZED odometri + Xsens IMU** kullanan 2 sensörlü durum kestirimi (sensor fusion) paketi.
+ROS 2 tabanlı, **ZED odometri + Xsens IMU** kullanan sensor fusio modeli.
 
 Filtre olarak `robot_localization` paketinin **UKF (Unscented Kalman Filter)** düğümü kullanılmaktadır.
 
